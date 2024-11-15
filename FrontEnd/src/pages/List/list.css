@@ -1,0 +1,22 @@
+.usersContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.userContainer {
+  border: 2px solid rgb(120, 97, 97);
+  list-style-type: none;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.item {
+  font-size: 1rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
