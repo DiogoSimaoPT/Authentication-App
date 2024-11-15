@@ -30,7 +30,7 @@ If you like it, take a look at my profile and follow me.
 
 ### 📷 Preview
 
-<img src="github/videoP.mp4" alt="App Preview" width="800"/>
+<img src="github/videoPG.mp4" alt="App Preview" width="800"/>
 
 ---
 
