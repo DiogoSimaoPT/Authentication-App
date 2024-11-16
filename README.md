@@ -32,10 +32,7 @@ If you like it, take a look at my profile and follow me.
 
 https://github.com/user-attachments/assets/11285eb4-0088-42e1-a6d3-e773132e18b9
 
----
-### 🚀 Demo
-
-<a href="https://authenticationapp-diogosimao.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/%20Live%20Demo-007bff?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo Button"/> </a>
+### 🚀 Try Demo <a href="https://authenticationapp-diogosimao.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/%20Live%20Demo-007bff?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo Button"/> </a>
 
 ---
 
