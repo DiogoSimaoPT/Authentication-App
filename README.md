@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/11285eb4-0088-42e1-a6d3-e773132e18b9
 ---
 ### 🚀 Demo
 
-[![Go to Demo 🚀](https://img.shields.io/badge/Ver%20Demo%20Online-007bff?style=for-the-badge)](https://authenticationapp-diogosimao.netlify.app/)
+[![Go to Demo 🚀](https://img.shields.io/badge/Go%20Demo%20Online-007bff?style=for-the-badge)](https://authenticationapp-diogosimao.netlify.app/)
 
 ---
 
